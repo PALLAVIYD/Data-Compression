@@ -1,1 +1,1 @@
-Codon Helix(DC)
+Codon Helix(Data comprssion)
